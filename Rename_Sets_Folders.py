@@ -132,7 +132,7 @@ def changeName(folderName, newName, directory):
         except:
             print('La carpeta '+folderName+' no existe, no se ha podido renombrar por ' + newName )
     else:
-        print ("Esta mierda no funciona")
+        print ("Error, the directory does not exist!)
 
 for x, y in dictionaryName.items():
     changeName(x, y, directory)
