@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+#Author: Basuh94
+
 import cv2
 import matplotlib.pyplot as plt
 
