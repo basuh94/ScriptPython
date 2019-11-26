@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 #Author: Basuh94
 
+#It is necessary to install the "opencv" and "matplotlib" libraries
+#pip3 install matplotlib
+#pip3 install opencv-python
+
 import cv2
 import matplotlib.pyplot as plt
 
